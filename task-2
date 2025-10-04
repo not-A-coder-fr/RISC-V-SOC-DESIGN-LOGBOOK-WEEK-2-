@@ -22,8 +22,9 @@
 ## 1️⃣ VSDBabySoC — Pre-Synthesis Simulation
 
 ### 🖼️ Waveform Screenshot
-![VSDBabySoC Pre-Synth](images/vsdbabysoc_pre_synth.png)  
-*(Upload this image to `/images/` folder in your repo)*
+![VSDBabySoC Pre-Synth](./images/presynth.png)
+<!-- Upload this image to './images/' folder in your repo -->
+
 
 ### 📍 Source
 > [https://github.com/manili/VSDBabySoC.git](https://github.com/manili/VSDBabySoC.git)
@@ -57,7 +58,9 @@ The charge pump enable signal is uninitialized. This can cause undefined behavio
 ## 2️⃣ VSDBabySoC — Post-Synthesis Simulation
 
 ### 🖼️ Waveform Screenshot
-![VSDBabySoC Post-Synth](images/vsdbabysoc_post_synth.png)
+![VSDBabySoC Post-Synth](./images/postsynth.png)
+
+![VSDBabySoC Wires](./images/wiresinsynth.png)
 
 ### 📍 Source
 > [https://github.com/manili/VSDBabySoC.git](https://github.com/manili/VSDBabySoC.git)
@@ -86,7 +89,7 @@ This can cause functional/timing issues in real hardware.
 ## 3️⃣ RVMythCore — RISC-V Core Simulation
 
 ### 🖼️ Waveform Screenshot
-![RVMythCore Waveform](images/rvmyth_waveform.png)
+![RVMythCore](./images/rvmyth.png)
 
 ### 📍 Source
 > [https://github.com/kunalg123/rvmyth/](https://github.com/kunalg123/rvmyth/)
